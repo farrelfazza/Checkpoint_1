@@ -4,6 +4,7 @@ NIM: 2509116111
 Kelas: C
 
 link: https://colab.research.google.com/drive/1igzwCWZuGvIIngvXFS-QagAsPduIs5Nn?usp=sharing
+      https://colab.research.google.com/drive/1igzwCWZuGvIIngvXFS-QagAsPduIs5Nn#scrollTo=YWw3eyeEVu37
 
 # Smartphone Sale Dataset
 Insight: Android tetap memimpin dalam variasi model dan jangkauan harga, sementara iOS memiliki retensi nilai harga (harga jual kembali) yang cenderung lebih stabil dan tinggi dibandingkan perangkat Android.
